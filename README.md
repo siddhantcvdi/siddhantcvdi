@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on - <br>    1. CLI based text editor using Rust<br>    2. Full Stack ecommerce site<br>Currently learning - Devops and Rust<br>
+I'm currently working on - <br>    1. CLI based text editor using Rust<br>    2. E2E encryption in a chat app<br>Currently learning - Devops and Rust<br>
 
 
 ## 🌐 Socials:
