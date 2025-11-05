@@ -12,6 +12,8 @@ I'm currently working on - <br>    1. CLI based text editor using Rust<br>    2.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddhantcvdi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantcvdi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhantcvdi&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=siddhantcvdi&icon=4&color=0)](https://visitcount.itsvg.in)
 
